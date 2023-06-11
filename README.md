@@ -1,5 +1,5 @@
 #calculadora
-calculadora simples usando while em python
+#calculadora simples usando while em python
 
 while True:
     
